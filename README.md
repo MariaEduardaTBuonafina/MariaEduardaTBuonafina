@@ -31,15 +31,8 @@ Sou uma estudante apaixonada por tecnologia e dados! 📊💻 Atualmente, estou 
 
 ---
 
-### 🕹️ Animação da Cobrinha
-<p align="center">
-  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 📬 Vamos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MariaEduardaTBuonafina)/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-trevizane-buonafina)/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaEduardaTBuonafina)
 
 ---
