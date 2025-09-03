@@ -1,12 +1,12 @@
 ### 👋 Olá! Bem-vindo(a) ao meu GitHub!
 
-Sou uma estudante apaixonada por tecnologia e dados! 📊💻 Atualmente, estou focando na área de Dados e explorando o incrível mundo do SQL, Python e Power BI. Aqui você encontrará meus projetos, aprendizados e desafios! 🚀
+Sou uma estudante apaixonada por tecnologia e dados! 📊💻 Atualmente, estou focando na área de Dados e IA, explorando o incrível mundo do SQL, Python e Power BI. Aqui você encontrará meus projetos, aprendizados e desafios! 🚀
 
 ---
 
 ### 🔍 Sobre Mim:
 - 🎓 **Graduanda em Análise e Desenvolvimento de Sistemas pelo Embarque Digital**
-- 📊 **Estudando Dados**
+- 📊 **Estudando Dados e IA**
 - 📚 Sempre aprendendo e explorando novas tecnologias
 - 💡 Apaixonada por resolver problemas com dados
 - 🚀 Buscando oportunidades para crescer profissionalmente
