@@ -6,7 +6,6 @@ Sou uma estudante apaixonada por tecnologia e dados! 📊💻 Atualmente, estou 
 
 ### 🔍 Sobre Mim:
 - 🎓 **Graduanda em Análise e Desenvolvimento de Sistemas pelo Embarque Digital**
-- 📊 **Estudando Dados e IA**
 - 📚 Sempre aprendendo e explorando novas tecnologias
 - 💡 Apaixonada por resolver problemas com dados
 - 🚀 Buscando oportunidades para crescer profissionalmente
